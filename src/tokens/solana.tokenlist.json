@@ -10606,7 +10606,22 @@
       "extensions": {
         "website": "https://www.kurzdigital.com"
       }
-    }
+    },
+    {
+      "chainId": 101,
+      "address": "EssczqGURZtsSuzEoH471KCRNDWfS4aQpEJVXWL3DvdK",
+      "symbol": "VIVA",
+      "name": "Viva coin",
+      "decimals": 9,
+      "logoURI": "https://www.inkresearch.com/public_files/viva_coin_logo_512x512.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://www.inkresearch.com",
+		    "twitter": "https://twitter.com/inkresearch"
+      }
+    }    
   ],
   "version": {
     "major": 0,
